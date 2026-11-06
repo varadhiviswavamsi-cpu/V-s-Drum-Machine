@@ -1,0 +1,114 @@
+[
+  {
+    "id": "kick",
+    "src": "517551__evilc00kie__kick-with-low-end-2.wav",
+    "label": "Kick",
+    "color": "#e53935",
+    "key": "a"
+  },
+  {
+    "id": "snare",
+    "src": "578526__panxozerok__dog-snare.wav",
+    "label": "Snare",
+    "color": "#d81b60",
+    "key": "s"
+  },
+  {
+    "id": "clap",
+    "src": "383016__thedcheck__clap-9.wav",
+    "label": "Clap",
+    "color": "#8e24aa",
+    "key": "d"
+  },
+  {
+    "id": "clap2",
+    "src": "639139__bogenseeberg__1-clap-for-we-will-rick-you.wav",
+    "label": "Rick Clap",
+    "color": "#5e35b1",
+    "key": "f"
+  },
+  {
+    "id": "closed_hat",
+    "src": "811628__m0nsterhd__closed-hi-hat.wav",
+    "label": "Closed Hat",
+    "color": "#3949ab",
+    "key": "g"
+  },
+  {
+    "id": "rev_hat",
+    "src": "519395__lilmati__reversed-hi-hat.wav",
+    "label": "Reverse Hat",
+    "color": "#1e88e5",
+    "key": "h"
+  },
+  {
+    "id": "pedal_hat",
+    "src": "847765__uberproduktion__hr-v10-hihat-pedal.wav",
+    "label": "Pedal Hat",
+    "color": "#039be5",
+    "key": "j"
+  },
+  {
+    "id": "double_hat",
+    "src": "176912__tapepusher__double-hi-hat-ch.wav",
+    "label": "Double Hat",
+    "color": "#00acc1",
+    "key": "k"
+  },
+  {
+    "id": "high_tom",
+    "src": "173838__yellowtree__tom-high.wav",
+    "label": "High Tom",
+    "color": "#00897b",
+    "key": "z"
+  },
+  {
+    "id": "wood",
+    "src": "858048__crosley_bendix__wood-08.wav",
+    "label": "Wood",
+    "color": "#43a047",
+    "key": "x"
+  },
+  {
+    "id": "cymbal",
+    "src": "858687__uberproduktion__cymbal-stack-01.wav",
+    "label": "Cymbal Stack",
+    "color": "#7cb342",
+    "key": "c"
+  },
+  {
+    "id": "glitch1",
+    "src": "868138__onefunnylittleman8__glitch-1.wav",
+    "label": "Glitch Bit",
+    "color": "#c0ca33",
+    "key": "v"
+  },
+  {
+    "id": "glass",
+    "src": "868605__cat-fox_alex__glass-hit-1_heavy.wav",
+    "label": "Glass Hit",
+    "color": "#fdd835",
+    "key": "b"
+  },
+  {
+    "id": "glitch_perc",
+    "src": "869510__cat-fox_alex__glitch-perc-1.wav",
+    "label": "Glitch Perc",
+    "color": "#ffb300",
+    "key": "n"
+  },
+  {
+    "id": "game_clicks",
+    "src": "869744__signaturesoundsorg__ui_game_clicks_from_pistachio_perc_28.wav",
+    "label": "Game Clicks",
+    "color": "#fb8c00",
+    "key": "m"
+  },
+  {
+    "id": "bell",
+    "src": "crah-bell2.wav",
+    "label": "Bell",
+    "color": "#f4511e",
+    "key": ","
+  }
+]
